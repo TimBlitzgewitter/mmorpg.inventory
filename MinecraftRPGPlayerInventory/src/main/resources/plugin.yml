@@ -1,0 +1,9 @@
+name: PlayerInventory
+version: '${project.version}'
+main: de.squeezzy.playerinventory.PlayerInventory
+api-version: 1.19
+commands:
+  inventory:
+  inventoryclear:
+  upgrade:
+  removeupgrade:
